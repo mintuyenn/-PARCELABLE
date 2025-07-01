@@ -18,7 +18,9 @@
             android:layout_width="80dp"
             android:layout_height="80dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/ic_launcher_background" /> <TextView
+            android:src="@drawable/ic_launcher_background" />
+
+        <TextView
             android:id="@+id/foodNameTextView"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
